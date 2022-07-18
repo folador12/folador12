@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there, sou Luiz Antônio 👋
 
-<!--
-**folador12/folador12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Não sei como você veio parar aqui, mas vou tentar contar um pouco sobre mim para você.
 
-Here are some ideas to get you started:
+## Informações ⚠️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me chamo Luiz Antonio mas pode me chamar de Folador. Moro em Uberaba, Minas Gerais e estou cursando o 1º ano de engenharia de computação.
+
+No meu tempo livre estudo programação , atualmente estou estudando php para poder criar aplicações dinâmicas, entretanto, já tenho algum conhecimento em HTML, CSS e Arduino. Sou formado no curso técnico em eletrônica.
+
+## Detalhes ✨
+
+- **Nome:** Luiz Antonio Folador Filho.
+- **Idade:** 18 anos.
+- **Mora em:** Uberaba, MG - Brasil.
+- **Sabe:** HTML, CSS, JavaScript e Arduino.
+- **Universidade:** Cursando 1º ano de engenharia de computação na IFTM
+- **Pronome:** Ele/dele.
