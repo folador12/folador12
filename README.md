@@ -11,7 +11,7 @@ No meu tempo livre estudo programação , atualmente estou estudando php para po
 ## Detalhes ✨
 
 - **Nome:** Luiz Antonio Folador Filho.
-- **Idade:** 18 anos.
+- **Idade:** 19 anos.
 - **Mora em:** Uberaba, MG - Brasil.
 - **Sabe:** HTML, CSS, JavaScript e Arduino.
 - **Universidade:** Cursando 1º ano de engenharia de computação na IFTM
