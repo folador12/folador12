@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm currently studying computer engineering.<br>Passionate in studying programming.<br>
+I'm currently a third-year computer engineering student, deeply passionate about programming. As part of my academic journey, I have taken on the role of a tech lead specializing in Next.js at Bugware, our university's junior enterprise.
+
+In my experience at Bugware, I contributed as a backend developer using Node.js for a project. This hands-on experience allowed me to sharpen my skills and gain valuable insights into real-world software development.
+
+As I enter my third year of the computer engineering program, I look forward to further expanding my knowledge and skills in the dynamic field of technology. If you have any questions or need assistance related to Next.js, Node.js, or anything else, feel free to reach out! 🚀
 
 
 ## 🌐 Socials:
